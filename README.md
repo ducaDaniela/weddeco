@@ -1,0 +1,2 @@
+# weddeco
+Angular app
